@@ -1,3 +1,5 @@
+// Write a JavaScript program to generate the Fibonacci series up to a given number.
+
 function answer(){
     let n = 5;
     let a = 0, b = 1;
