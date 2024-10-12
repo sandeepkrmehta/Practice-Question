@@ -1,3 +1,5 @@
+// Write a JavaScript program to reverse a given number.
+
 function answer(n) {
     let rev = 0;
 
@@ -9,6 +11,6 @@ function answer(n) {
     console.log("Reversed number:", rev);
 }
 
-// Define the number directly
-let n = 12345; // Replace with the desired number
+
+let n = 12345; 
 answer(n);
