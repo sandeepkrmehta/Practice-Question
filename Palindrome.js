@@ -1,7 +1,7 @@
 // Write a JavaScript program to check if a number is a palindrome.
 
 function answer() {
-    let n = 121; 
+    let n = 333; 
     const org = n; 
     let rev = 0;   
 
